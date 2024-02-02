@@ -1,4 +1,4 @@
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<KaiWMalcolm>/<sem>/<main.yml>.yml?branch=<master>)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/KaiWMalcolm/sem/main.yml?branch=master)
 
 
 Hello My Name Is Kai
